@@ -11,3 +11,7 @@
 
 
 학교코드는 [여기서](https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17020190531110010104913&infSeq=1#none) 검색한뒤 넣어주세요
+
+
+# 연락처
+discord : dotori_007
